@@ -1,7 +1,17 @@
-# Hi there 👋
-
-My name is Angelo Yana, a second-year college student passionate about software development and networking. I've been self-teaching for about two years now, and here you can find some of the projects I've been working on throughout these past years.
-
-## Tech Stack 🛠️
-
-I primarily work with Python 🐍 and JavaScript 🌐, along with some popular frameworks and libraries.
+```json
+{
+  "name": "Angelo Yana",
+  "education": "Bachelor of Science in Information Technology - 2nd Year",
+  "skills": ["Web Development", "App Development", "Game Development"],
+  "specialization": "Backend Development",
+  "techStack": {
+    "css": ["Tailwind CSS"],
+    "javascript": ["React", "Svelte"],
+    "java": ["Spring Boot", "Java Swing"],
+    "python": ["Flask", "FastAPI"],
+    "database": ["MySQL", "MongoDB"],
+    "gameEngine": ["Unity"],
+    "hosting": ["Vercel", "Netlify"]
+  }
+}
+```
