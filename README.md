@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Angelo Yana",
-  "education": "Bachelor of Science in Information Technology - 2nd Year",
+  "education": "Bachelor of Science in Information Technology :: 2nd Year :: Student",
   "skills": ["Web Development", "App Development", "Game Development"],
   "specialization": "Backend Development",
   "techStack": {
